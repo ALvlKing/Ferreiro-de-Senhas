@@ -33,7 +33,7 @@ Com ele, você pode escolher o **tamanho da senha**, **incluir caracteres especi
    ```
 3. **Execute o script**
    ```bash
-   python3 ferreiro_de_senhas.py
+   python3 ferreiroSenhas.py
    ```
 
 ---
